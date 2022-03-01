@@ -1,0 +1,17 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0);}
+
+.logoAnav {
+    width: 80px;
+}
+.text-white{
+    font-weight: 400;
+}
+.parrafo{
+    width: 70vw;
+    text-align: center;
+}
+
+.accordion {
+    margin-right: 0; 
+}
