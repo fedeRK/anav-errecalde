@@ -11,7 +11,10 @@
     width: 70vw;
     text-align: center;
 }
-
-.accordion {
-    margin-right: 0; 
+.tituloCard {
+    font-weight: bold;
+    font-size: 1rem;
+}
+.parrafoCard{
+    font-weight: 100;
 }
