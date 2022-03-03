@@ -24,15 +24,16 @@
 .bg-image {
     background-position-y: 100%
 }
-.img-fluid{
+
+.fotocampo {
     height: 100%;
+    width: 100%;
+    offset: 0;
+    object-fit: cover;
 }
 
-@media screen and (max-width: 990px) {
-    .actividades {
-        width: 100vw;
-    }
-    .fotoActividades {
+@media screen and (max-width:767px) {
+    .fotocampo {
         display: none;
     }
 }
