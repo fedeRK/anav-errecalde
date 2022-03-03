@@ -24,3 +24,15 @@
 .bg-image {
     background-position-y: 100%
 }
+.img-fluid{
+    height: 100%;
+}
+
+@media screen and (max-width: 990px) {
+    .actividades {
+        width: 100vw;
+    }
+    .fotoActividades {
+        display: none;
+    }
+}
